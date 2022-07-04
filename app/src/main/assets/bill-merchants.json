@@ -1,0 +1,998 @@
+[
+  {
+    "code": "1003",
+    "name": "Benin Electricity Distribution Company Prepaid",
+    "customerReferenceDescription": "Meter Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1004",
+    "name": "Eko Electricity Distribution Company Plc Postpaid",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1005",
+    "name": "Eko Electricity Distribution Company Plc Prepaid",
+    "customerReferenceDescription": "Meter Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1006",
+    "name": "Enugu Electricity Distribution Company Postpaid",
+    "customerReferenceDescription": "Customer Account Number (Eg. 59/29/04/1234-01)",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1007",
+    "name": "Enugu Electricity Distribution Company Prepaid",
+    "customerReferenceDescription": "Meter Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1009",
+    "name": "Ibadan Electricity Distribution Company Postpaid",
+    "customerReferenceDescription": "Customer Account Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1010",
+    "name": "Ibadan Electricity Distribution Company Prepaid",
+    "customerReferenceDescription": "Meter Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1011",
+    "name": "Ikeja Electric (Postpaid)",
+    "customerReferenceDescription": "Customer Account No.(enter only digits)",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1012",
+    "name": "Ikeja Electric Non-Energy Payments",
+    "customerReferenceDescription": "Meter Number/Account Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1013",
+    "name": "Ikeja Electric Prepaid",
+    "customerReferenceDescription": "Meter Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1014",
+    "name": "KEDCO PostPaid",
+    "customerReferenceDescription": "Account Number (e.g. 30/01/01/0001-01)",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1015",
+    "name": "KEDCO Prepaid",
+    "customerReferenceDescription": "Meter Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1016",
+    "name": "Next Big Thing",
+    "customerReferenceDescription": "Next Big Thing",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1017",
+    "name": "Ogun State Water Corporation",
+    "customerReferenceDescription": "Customer A/C NO",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1018",
+    "name": "PHCN Postpaid (ALL ZONES)",
+    "customerReferenceDescription": "Customer Account Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1020",
+    "name": "PortHacourt Electricity Distribution Company (PHED",
+    "customerReferenceDescription": "Customer Account Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1021",
+    "name": "Yola Electricity Distribution Company",
+    "customerReferenceDescription": "Meter No",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1022",
+    "name": "African Cable Television (ACTV) Subscription",
+    "customerReferenceDescription": "Decoder Serial Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1023",
+    "name": "Cable Africa  Network TV(CanTV)",
+    "customerReferenceDescription": "Decoder Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1024",
+    "name": "DSTV Box Office Wallet Topup",
+    "customerReferenceDescription": "Smart Card Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1025",
+    "name": "DSTV Subscription",
+    "customerReferenceDescription": "DSTV Smart Card Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1026",
+    "name": "GoTV",
+    "customerReferenceDescription": "Decoder Number (ICU)",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1027",
+    "name": "Infinity TV Payments",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1028",
+    "name": "iROKOtv",
+    "customerReferenceDescription": "User ID",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1030",
+    "name": "Linda Ikeji TV",
+    "customerReferenceDescription": "Subscription Email",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1031",
+    "name": "Montage Cable TV",
+    "customerReferenceDescription": "Smart Card ID",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1032",
+    "name": "Montage Decoder Starter Pack",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1033",
+    "name": "MyTV Smart Payment",
+    "customerReferenceDescription": "Smart card number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1034",
+    "name": "Platinum Plus TV",
+    "customerReferenceDescription": "Customer ID",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1035",
+    "name": "Play Subscription",
+    "customerReferenceDescription": "SmartCard Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1036",
+    "name": "Startimes Payments",
+    "customerReferenceDescription": "smartcard number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1037",
+    "name": "TrendTV",
+    "customerReferenceDescription": "Smart Card Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1038",
+    "name": "TSTV",
+    "customerReferenceDescription": "Customer ID",
+    "categoryCode": "1022"
+  },
+  {
+    "code": "1052",
+    "name": "Coollink",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1011"
+  },
+  {
+    "code": "1055",
+    "name": "Mobitel Payments",
+    "customerReferenceDescription": "Mac ID",
+    "categoryCode": "1011"
+  },
+  {
+    "code": "1058",
+    "name": "Smile Bundle",
+    "customerReferenceDescription": "Smile Account Number",
+    "categoryCode": "1011"
+  },
+  {
+    "code": "1061",
+    "name": "ONDO STATE LANDUSE CHARGE",
+    "customerReferenceDescription": "Bill Number/Customer Reference",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1062",
+    "name": "ADRON HOMES AND PROPERTIES LIMITED",
+    "customerReferenceDescription": "ADRON HOMES PAYMENT",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1063",
+    "name": "AIICO Insurance Plc",
+    "customerReferenceDescription": "Policy Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1064",
+    "name": "ARM Investments",
+    "customerReferenceDescription": "Customer Code/BVN",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1065",
+    "name": "AXA MANSARD INSURANCE PLC",
+    "customerReferenceDescription": "Policy Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1066",
+    "name": "BGL Plc",
+    "customerReferenceDescription": "Customer Reference",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1067",
+    "name": "FBN Insurance",
+    "customerReferenceDescription": "Policy Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1068",
+    "name": "FBN QUEST ASSET MANAGEMENT",
+    "customerReferenceDescription": "Customer Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1069",
+    "name": "International Energy Insurance PLC ",
+    "customerReferenceDescription": "Policy Number and Activation Code",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1070",
+    "name": "Lasaco Assurance",
+    "customerReferenceDescription": "Policy Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1071",
+    "name": "Leadway Assurance",
+    "customerReferenceDescription": "Policy Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1072",
+    "name": "Niger Insurance Plc",
+    "customerReferenceDescription": "Policy Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1073",
+    "name": "Stanbic IBTC Asset Management Limited",
+    "customerReferenceDescription": "E-Account Number",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1075",
+    "name": "Wapic Insurance Plc",
+    "customerReferenceDescription": "Policy / Proposal Number",
+    "categoryCode": "1021"
+  },
+  {
+    "code": "1076",
+    "name": "DealDey Portal Payments",
+    "customerReferenceDescription": "DealDey Registered email address",
+    "categoryCode": "1021"
+  },
+  {
+    "code": "1077",
+    "name": "Oando eVAP (Diesel Sales)",
+    "customerReferenceDescription": "Reservation Number",
+    "categoryCode": "1021"
+  },
+  {
+    "code": "1078",
+    "name": "Oando Marketing Limited",
+    "customerReferenceDescription": "Order number",
+    "categoryCode": "1021"
+  },
+  {
+    "code": "1079",
+    "name": "Sahara Energy EPAY",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1080",
+    "name": "AERO Book-On-Hold",
+    "customerReferenceDescription": "Booking confirmation number",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1081",
+    "name": "Africa World Airlines",
+    "customerReferenceDescription": "PNR",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1082",
+    "name": "Air Peace",
+    "customerReferenceDescription": "Payment Ref Number(i.e. 504*******)",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1085",
+    "name": "Asky Air Mobile Book on Hold",
+    "customerReferenceDescription": "",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1086",
+    "name": "AZMAN AIRLINE",
+    "customerReferenceDescription": "Booking Reference",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1088",
+    "name": "Discovery Air Book-on-hold",
+    "customerReferenceDescription": "Booking Confirmation Number",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1089",
+    "name": "Emirates",
+    "customerReferenceDescription": "Payment Reference Number",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1090",
+    "name": "Hak Air Book-On-Hold",
+    "customerReferenceDescription": "Booking Reference",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1091",
+    "name": "Medview Airlines",
+    "customerReferenceDescription": "Booking Reference Number",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1093",
+    "name": "RwandAir Book on Hold",
+    "customerReferenceDescription": "",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1094",
+    "name": "South African Airlines",
+    "customerReferenceDescription": "PNR",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1095",
+    "name": "Wakanow",
+    "customerReferenceDescription": "Transaction ID/Booking Number",
+    "categoryCode": "1016"
+  },
+  {
+    "code": "1096",
+    "name": "LCC Agent Payment",
+    "customerReferenceDescription": "LCC Account Number",
+    "categoryCode": "1016"
+  },
+  {
+    "code": "1097",
+    "name": "Lekki concession company",
+    "customerReferenceDescription": "Customer ID",
+    "categoryCode": "1016"
+  },
+  {
+    "code": "1098",
+    "name": "Lekki Concession Company (Lekki - Epe Expressway)",
+    "customerReferenceDescription": "LCC Account Number",
+    "categoryCode": "1016"
+  },
+  {
+    "code": "1099",
+    "name": "Lekki Concession Company (Lekki - Ikoyi Bridge)",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1008"
+  },
+  {
+    "code": "1100",
+    "name": "Pinnacle Oil and Gas",
+    "customerReferenceDescription": "Authority To Pay",
+    "categoryCode": "1003"
+  },
+  {
+    "code": "1114",
+    "name": "Airtel Dealer payment",
+    "customerReferenceDescription": "Dealer No.",
+    "categoryCode": "1009"
+  },
+  {
+    "code": "1116",
+    "name": "APM Terminals",
+    "customerReferenceDescription": "Invoice Number",
+    "categoryCode": "1019"
+  },
+  {
+    "code": "1117",
+    "name": "Federal Inland Revenue Service",
+    "customerReferenceDescription": "TIN",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1118",
+    "name": "Catholic Archdiocese of Lagos",
+    "customerReferenceDescription": "Name and PhoneNo",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1311",
+    "name": "Airtel Data Plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1025"
+  },
+  {
+    "code": "1312",
+    "name": "9Mobile Data Plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1025"
+  },
+  {
+    "code": "1313",
+    "name": "Globacom Data plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1025"
+  },
+  {
+    "code": "1314",
+    "name": "MTN Data Plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1025"
+  },
+  {
+    "code": "1315",
+    "name": "Airtel Data Plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1026"
+  },
+  {
+    "code": "1316",
+    "name": "9Mobile Data Plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1026"
+  },
+  {
+    "code": "1317",
+    "name": "Globacom Data plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1026"
+  },
+  {
+    "code": "1318",
+    "name": "MTN Data Plan",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1026"
+  },
+  {
+    "code": "1002",
+    "name": "Benin Electricity Distribution Company Postpaid",
+    "customerReferenceDescription": "Customer Account Number",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1008",
+    "name": "Enugu State Water Co",
+    "customerReferenceDescription": "Customer Account No",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1019",
+    "name": "PHCN Prepaid (EKO)",
+    "customerReferenceDescription": "Meter No",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1029",
+    "name": "Kwese TV",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1010"
+  },
+  {
+    "code": "1054",
+    "name": "ipNX Subscription Payments",
+    "customerReferenceDescription": "Customer ID ",
+    "categoryCode": "1011"
+  },
+  {
+    "code": "1074",
+    "name": "Standard Alliance",
+    "customerReferenceDescription": "Policy No",
+    "categoryCode": "1023"
+  },
+  {
+    "code": "1001",
+    "name": "ADRON HOMES AND PROPERTIES LIMITED",
+    "customerReferenceDescription": "ADRON HOMES PAYMENT",
+    "categoryCode": "1020"
+  },
+  {
+    "code": "1319",
+    "name": "Arik Air Book-On-Hold",
+    "customerReferenceDescription": "Booking Reference Number/PNR",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1320",
+    "name": "Arik Air Mobile -Book now, Pay Later",
+    "customerReferenceDescription": "Booking Reference",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1087",
+    "name": "Dana Air- Book On Hold",
+    "customerReferenceDescription": "Booking Reference",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1321",
+    "name": "PENCILLAND TRAVELS AND TOURS LIMITED",
+    "customerReferenceDescription": "PAY FLYFORVALUE",
+    "categoryCode": "1024"
+  },
+  {
+    "code": "1115",
+    "name": "Airtel Non Mobile Services",
+    "customerReferenceDescription": "Contract Number",
+    "categoryCode": "1018"
+  },
+  {
+    "code": "1322",
+    "name": "Christ Embassy",
+    "customerReferenceDescription": "Your Church-Your Name-phone no",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1323",
+    "name": "Christ Embassy Loveworld App",
+    "customerReferenceDescription": "Church-Your Name-phone no",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1324",
+    "name": "GRACE ASSEMBLY",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1325",
+    "name": "House on the Rock",
+    "customerReferenceDescription": "Name",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1326",
+    "name": "RCCG Covenant Partners",
+    "customerReferenceDescription": "ID (Covenant Partner ID or Teller ID, or 111)",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1327",
+    "name": "Rhapsody of Realities Subscription",
+    "customerReferenceDescription": "Rhapsody Registered Email",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1328",
+    "name": "Salvation Ministries",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1329",
+    "name": "The Bible Society of Nigeria",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1330",
+    "name": "The Shepherd's Flock ",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1331",
+    "name": "WINNERS CHAPEL",
+    "customerReferenceDescription": "Phone Number",
+    "categoryCode": "1001"
+  },
+  {
+    "code": "1332",
+    "name": "1004 Estates Limited",
+    "customerReferenceDescription": "Flat Number e.g \"D1-104” ",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1333",
+    "name": "ANAN",
+    "customerReferenceDescription": "Membership Number",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1334",
+    "name": "Chartered Inst. Of Arbitrator UK (Nigeria Branch)",
+    "customerReferenceDescription": "User name",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1335",
+    "name": "ICAN",
+    "customerReferenceDescription": "Student/Membership Number",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1336",
+    "name": "Medical and Dental Council of Nigeria",
+    "customerReferenceDescription": "Folio Number",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1337",
+    "name": "Nigeria Veterinary Medical Association",
+    "customerReferenceDescription": "VCN No.",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1338",
+    "name": "Nigerian Institute of Management",
+    "customerReferenceDescription": "Transaction ID",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1339",
+    "name": "Nigerian Society of Engineers ",
+    "customerReferenceDescription": "Transaction ID",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1340",
+    "name": "NVMA Dues Payment",
+    "customerReferenceDescription": "Name",
+    "categoryCode": "1015"
+  },
+  {
+    "code": "1341",
+    "name": "Above Only MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1342",
+    "name": "Aella Financial Solutions Limited",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1343",
+    "name": "Afemai Microfinance Bank Ltd",
+    "customerReferenceDescription": "Account Number ",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1344",
+    "name": "AL HAYAT Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1345",
+    "name": "Alekun MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1346",
+    "name": "ALLWORKERS MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1347",
+    "name": "ALLY MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1348",
+    "name": "Aloaye Microfinance Bank Ltd",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1349",
+    "name": "Alpha Kapital MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1350",
+    "name": "Amoye Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1351",
+    "name": "Apeks Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1352",
+    "name": "Apex Microfinance Banks",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1353",
+    "name": "Apple MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1354",
+    "name": "Asset Matrix MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1355",
+    "name": "AstraPolaris MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1356",
+    "name": "Atlas Micofinance bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1357",
+    "name": "Auchi Microfinance Bank Ltd",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1358",
+    "name": "Awkuzu MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1359",
+    "name": "BAINES CREDIT MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1360",
+    "name": "Balogun Fulani Mfb",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1361",
+    "name": "BC Kash MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1362",
+    "name": "Betterlife MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1363",
+    "name": "BishopGate Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1364",
+    "name": "Boctrust MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1365",
+    "name": "Bokkos Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1366",
+    "name": "Bridgeway MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1367",
+    "name": "BrightWay MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1368",
+    "name": "Calabar Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1369",
+    "name": "Capital Plan MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1370",
+    "name": "Cedar Microfinance Bank Ltd",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1371",
+    "name": "Chase Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1372",
+    "name": "Cherish MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1373",
+    "name": "Chibueze MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1374",
+    "name": "Chikum MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1375",
+    "name": "Conpro Microfinance Bank",
+    "customerReferenceDescription": "Account Number ",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1376",
+    "name": "Consumer Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1377",
+    "name": "Cornerstone Savings  Loan",
+    "customerReferenceDescription": "Account  Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1378",
+    "name": "CREDIT AFRIQUE MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1379",
+    "name": "CreditPlus MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1380",
+    "name": "Crossover MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1381",
+    "name": "Crowned Eagle Microfinance Bank Limited",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1382",
+    "name": "Crutech MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1383",
+    "name": "Davo Dani Microfinance Bank Ltd",
+    "customerReferenceDescription": "",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1384",
+    "name": "Daylight MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1385",
+    "name": "DesMonarchy MFB Limited",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1386",
+    "name": "Diamond Bank Plc",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1387",
+    "name": "Diobu MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1388",
+    "name": "Eagle Flight Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1389",
+    "name": "Echo Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1390",
+    "name": "Ekondo MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1391",
+    "name": "EK-Reliable Microfinance Bank",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  },
+  {
+    "code": "1392",
+    "name": "Empire Trust MFB",
+    "customerReferenceDescription": "Account Number",
+    "categoryCode": "1013"
+  }
+]
